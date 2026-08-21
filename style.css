@@ -39,7 +39,7 @@ header img{
     color: rgb(64, 135, 168)
 }
 .preview {
-    background-image: url("../Images/Pinguin.jpg");
+    background-image: url("Images/Pinguin.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
